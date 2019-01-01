@@ -226,6 +226,7 @@
     "isarray": "^1.0.0",
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
+    "isomorphic-unfetch": "^3.0.0",
     "js-levenshtein": "^1.1.4",
     "js-tokens": "^4.0.0",
     "jsesc": "^2.5.2",
@@ -475,7 +476,16 @@
     "y18n": "^4.0.0",
     "yallist": "^3.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.0",
+    "prettier": "^1.15.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shtakai/fuckbitnext.git"
